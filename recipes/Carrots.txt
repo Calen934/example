@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 But I messed the order up on this so this should actually go away
 Just writing this as a test!carrots 
 This should go away! 
+=======
+carrots 
+>>>>>>> 33ee088186afb312e8f02b6a77288e5031eb6210
